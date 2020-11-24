@@ -31,10 +31,10 @@ Pre-built UI components (HTML+CSS snippets) ready to copy and paste into your pr
 - Table
 - Chart (full-width)
 
-### Authentication
+## Blog
 
-- Login
-- Sign up / Register
+- Article
+- Comment section
 
 ### Navigation
 
@@ -50,6 +50,9 @@ Pre-built UI components (HTML+CSS snippets) ready to copy and paste into your pr
 
 - Contact us (short)
 - Contact us (long)
+- Login
+- Sign up / Register
+- Comment
 
 ### Feedback
 
